@@ -1,0 +1,16 @@
+* {
+    text-align: center;
+    background-color: #C3E0E5;
+    font-family: monospace;
+}
+
+img {
+    border-radius: 20px;
+    border: 2px solid #274472;
+    width: 333px;
+    height: auto;
+}
+
+h2 {
+    color: #41729F;
+}

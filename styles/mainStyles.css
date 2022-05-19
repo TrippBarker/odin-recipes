@@ -1,0 +1,10 @@
+* {
+    text-align: center;
+    background-color: #C3E0E5;
+    font-family: monospace;
+}
+
+.recipe {
+    list-style-type: none;
+    font-size: 28px;
+}
